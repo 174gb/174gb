@@ -12,4 +12,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-![](https://github.com/174gb/174gb/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/174gb/174gb/output/github-contribution-grid-snake-dark.svg)
