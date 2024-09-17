@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <br>
+  <img src="https://discord.js.org/static/logo.svg" width="150" height="auto">
   <img src="https://github.com/UpliftGames/wally/blob/main/wally-logo.svg" width="90" height="auto" alt="Wally Logo"/>
   <img src="https://github.com/rojo-rbx/rojo/blob/master/assets/brand_images/logo-512.png" width="60" height="auto" alt="Rojo Logo"/>
 </p>
