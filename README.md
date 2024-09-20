@@ -12,16 +12,9 @@
 
 <h2 align="center">📜Tools & Languages⚒️</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Luau-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,lua,discordjs,git,github,vscode,robloxstudio,windows" />
   <br>
-  <img src="https://discord.js.org/static/logo.svg" width="150" height="auto">
-  <img src="https://github.com/UpliftGames/wally/blob/main/wally-logo.svg" width="90" height="auto" alt="Wally Logo"/>
-  <img src="https://github.com/rojo-rbx/rojo/blob/master/assets/brand_images/logo-512.png" width="60" height="auto" alt="Rojo Logo"/>
+  <img src="https://github.com/UpliftGames/wally/blob/main/wally-logo.svg" width="95" height="auto" alt="Wally Logo"/>
+  <img src="" width="120" height="auto" alt=""/>
+  <img src="https://github.com/rojo-rbx/rojo/blob/master/assets/brand_images/logo-512.png" width="65" height="auto" alt="Rojo Logo"/>
 </p>
