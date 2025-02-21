@@ -19,3 +19,9 @@
   <img src="" width="120" height="auto" alt=""/>
   <img src="https://github.com/rojo-rbx/rojo/blob/master/assets/brand_images/logo-512.png" width="65" height="auto" alt="Rojo Logo"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
