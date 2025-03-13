@@ -12,7 +12,7 @@
 
 <h2 align="center">📜Languages & Tools⚒️</h2>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,lua,discordjs,git,github,vscode,visualstudio,robloxstudio,windows" />  <!--most used languages and tools only-->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,lua,luau,discordjs,git,github,vscode,visualstudio,robloxstudio,windows" />  <!--most used languages and tools only-->
   <!--<img src="https://skillicons.dev/icons?i=js,html,css,lua,luau,discordjs,git,github,vscode,robloxstudio,windows" /> OLD ICONS -->
   <br>
   <img src="https://github.com/UpliftGames/wally/blob/main/wally-logo.svg" width="95" height="auto" alt="Wally Logo"/>
