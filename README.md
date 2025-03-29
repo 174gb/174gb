@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://discord.com/users/813219711772262413">
     <img src="https://lanyard.cnrad.dev/api/813219711772262413" alt="Discord Presence">
+    <img height=209 src="https://github-readme-stats-174gbs-projects.vercel.app/api/top-langs?username=174gb&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed"/>
   </a>
 </div>
 
