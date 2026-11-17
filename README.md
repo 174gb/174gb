@@ -20,7 +20,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=&weight=350&size=25&duration=3500&pause=3500&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%93%9C+Languages+%26+Tools+%E2%9A%92%EF%B8%8F" alt="Languages & Tools" />
   </a>
   <p align="center">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,lua,luau,discordjs,git,github,vscode,visualstudio,robloxstudio,windows" alt="Skill Icons" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs,lua,luau,discordjs,git,github,vscode,visualstudio,robloxstudio,windows" alt="Skill Icons" />
     <br>
     <img src="https://github.com/UpliftGames/wally/blob/main/wally-logo.svg?raw=true" width="95" alt="Wally Logo" />
     <img src="https://github.com/rojo-rbx/rojo/blob/master/assets/brand_images/logo-512.png?raw=true" width="65" alt="Rojo Logo" />
@@ -36,14 +36,3 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/174gb/174gb/output-pacman/pacman-contribution-graph.svg" />
   </picture>
 </div>
-
-<!-- ===================== SNAKE (desativado) =====================
-<div align="center">
-  <hr>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-</div>
-================================================================ -->
